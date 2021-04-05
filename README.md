@@ -1,3 +1,3 @@
 # Cuda
 A bootstrap  Project.
-https://github.com/thuhidurrahmanjim/Cuda
+https://thuhidurrahmanjim.github.io/Cuda-project/
